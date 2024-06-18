@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 
-public class Lecture4 {
+public class Session3Lec2 {
     public static void main(String[] args) {
         final int I = 1;
         final int V = 5;
